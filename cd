@@ -1,0 +1,31 @@
+[33mcommit c165f492c22b33a1df04f9e5e29a36bf1a84e3be[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: Danil <dan_peace@mail.ru>
+Date:   Mon Jun 22 18:18:08 2020 +0300
+
+    added dev-branch
+
+[33mcommit 3cef805ec40a5c2c27731c9b3b33fa8b8485724c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Danil <dan_peace@mail.ru>
+Date:   Sun Jun 21 18:12:14 2020 +0300
+
+    Revert "test4 commit"
+    
+    This reverts commit c164d9d446b5be3d067e1da25578aa2e8ff184dc.
+
+[33mcommit c164d9d446b5be3d067e1da25578aa2e8ff184dc[m
+Author: Danil <dan_peace@mail.ru>
+Date:   Sun Jun 21 18:06:15 2020 +0300
+
+    test4 commit
+
+[33mcommit 280bae7ce3ff2ba36b4433c2944ba717336151b1[m
+Author: Danil <dan_peace@mail.ru>
+Date:   Sun Jun 21 16:34:07 2020 +0300
+
+    test commit
+
+[33mcommit e658df701e7f53b38c285839a80d2517e60c1226[m
+Author: Danil <dan_peace@mail.ru>
+Date:   Sun Jun 21 16:20:41 2020 +0300
+
+    Initial commit
